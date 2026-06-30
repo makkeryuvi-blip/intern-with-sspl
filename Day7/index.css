@@ -1,0 +1,42 @@
+body{
+    background:#f4f4f4;
+    text-align:center;
+}
+
+h1{
+    background:#5f7cac;
+    color:white;
+    padding:15px;
+}
+
+.container{
+    display:flex;
+    justify-content:center;
+    gap:1rem;
+    margin-top:30px;
+    align-items:center;
+    justify-content:center;
+}
+
+.card{
+    background:white;
+    padding:15px;
+    border-radius:10px;
+    width:250px;
+}
+
+.card img{
+    width:100%;
+}
+
+button{
+    background:#2874f0;
+    color:white;
+    border:none;
+    padding:10px 15px;
+    border-radius:5px;
+}
+
+button:hover{
+    background:#0d5bdd;
+}
